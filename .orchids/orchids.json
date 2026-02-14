@@ -1,0 +1,8 @@
+{
+  "projectId": "1843aa7e-e8c0-4b7a-930c-2c98ff00ba88",
+  "createdAt": 1770977524883,
+  "startupCommands": [
+    "cd frontend && npm install && npm run build && cd ../backend && npm install && node server.js"
+  ],
+  "templateId": "any"
+}
